@@ -16,7 +16,7 @@ Follow the instructions:
 2. Open the project. You will need `node` and `npm` installed globally on your machine.  
 3. `npm i` 
 4. `npm start`
-5. To Visit App: `localhost:3000/ideas`  
+5. To Visit App: `localhost:3000`  
 
 ## Before you leave 🥺
 
