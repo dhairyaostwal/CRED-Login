@@ -2,64 +2,31 @@
 
 ### What if you could login to CRED from your desktop...
 
-#### Example:
-
-TweetWorld 
-
-An application used to filter data form Twitter based on user preference, built with React, Redux, JavaScript, and CSS.
-
-## Project Status
-(only necessary if incomplete)
-
-#### Example:
-
-This project is currently in development. Users can filter tweets by username and keyword and see visual data representation. Functionality to sort by additional parameters is in progress.
+React based login application depicting CRED Neomorphic like UI usage built with React, JavaScript, HTML and CSS
 
 ## Project Screen Shot(s)
 
-#### Example:   
-
-[ PRETEND SCREEN SHOT IS HERE ]
-
-[ PRETEND OTHER SCREEN SHOT IS HERE ]
+<img src="./public/demo.gif">
 
 ## Installation and Setup Instructions
 
-#### Example:  
+Follow the instructions:
 
-Clone down this repository. You will need `node` and `npm` installed globally on your machine.  
+1. Clone the project using `git clone https://github.com/dhairyaostwal/CRED-Login.git`
+2. Open the project. You will need `node` and `npm` installed globally on your machine.  
+3. `npm i` 
+4. `npm start`
+5. To Visit App: `localhost:3000/ideas`  
 
-Installation:
+## Before you leave 🥺
 
-`npm install`  
+Hey! I am Dhairya Ostwal, a CSE undergrad from India. I mainly work on frontend web development and love building innovative products. Presently serving as a Frontend Developer at [@onTribe](www.ontribe.in).
 
-To Run Test Suite:  
+🌱 Previously served as a Business Development Intern in a legal-tech startup driving Pre-Sales & Expansion. So, you can also call me *a **Business Dev turned Developer*** 👨🏻‍💻
 
-`npm test`  
+Let's connect on 
 
-To Start Server:
+[![LinkedIn](https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dhairyaostwal/) [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dhairyaostwal/) [![Medium](https://img.shields.io/badge/-medium-black?style=for-the-badge&logo=medium)](https://medium.com/@dhairyaostwal)
 
-`npm start`  
 
-To Visit App:
-
-`localhost:3000/ideas`  
-
-## Reflection
-
-  - What was the context for this project? (ie: was this a side project? was this for Turing? was this for an experiment?)
-  - What did you set out to build?
-  - Why was this project challenging and therefore a really good learning experience?
-  - What were some unexpected obstacles?
-  - What tools did you use to implement this project?
-      - This might seem obvious because you are IN this codebase, but to all other humans now is the time to talk about why you chose webpack instead of create react app, or D3, or vanilla JS instead of a framework etc. Brag about your choices and justify them here.  
-
-#### Example:  
-
-This was a 3 week long project built during my third module at Turing School of Software and Design. Project goals included using technologies learned up until this point and familiarizing myself with documentation for new features.  
-
-Originally I wanted to build an application that allowed users to pull data from the Twitter API based on what they were interested in, such as 'most tagged users'. I started this process by using the `create-react-app` boilerplate, then adding `react-router-4.0` and `redux`.  
-
-One of the main challenges I ran into was Authentication. This lead me to spend a few days on a research spike into OAuth, Auth0, and two-factor authentication using Firebase or other third parties. Due to project time constraints, I had to table authentication and focus more on data visualization from parts of the API that weren't restricted to authenticated users.
-
-At the end of the day, the technologies implemented in this project are React, React-Router 4.0, Redux, LoDash, D3, and a significant amount of VanillaJS, JSX, and CSS. I chose to use the `create-react-app` boilerplate to minimize initial setup and invest more time in diving into weird technological rabbit holes. In the next iteration I plan on handrolling a `webpack.config.js` file to more fully understand the build process.
+**Star the repo ⭐️ if you like 😄**
