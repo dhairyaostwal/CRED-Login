@@ -1,8 +1,10 @@
+[![Visits Badge](https://badges.pufler.dev/visits/dhairyaostwal/CRED-Login)](https://github.com/dhairyaostwal/CRED-Login/)
+
 ## CRED-Login
 
 ### What if you could login to CRED from your desktop...
 
-React based login application depicting CRED Neomorphic like UI usage built with React, JavaScript, HTML and CSS
+React based login application depicting CRED Neumorphic like UI usage built with React, JavaScript, HTML and CSS
 
 ## Project Screen Shot(s)
 
